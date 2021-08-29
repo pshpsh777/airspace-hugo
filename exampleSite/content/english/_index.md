@@ -92,7 +92,7 @@ funfacts:
       make us stand out from the crowd.
 menu:
   main:
-    name: Home
-    weight: 8
+    name: atti
+    weight: 1
 
 ---

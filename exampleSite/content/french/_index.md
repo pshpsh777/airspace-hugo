@@ -93,6 +93,6 @@ funfacts:
 menu:
   main:
     name: Accueil
-    weight: 6
+    weight: 7
 
 ---

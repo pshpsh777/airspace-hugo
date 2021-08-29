@@ -96,6 +96,13 @@ weight = 22
 name = "Über uns"
 weight = 2
 [[menu.main]]
+name = "Service"
+parent = "Plus"
+weight = 6
+[[menu.main]]
+name = "Startseite"
+weight = 5
+[[menu.main]]
 name = "Kontakt"
 weight = 28
 [[menu.main]]
@@ -137,23 +144,16 @@ name = "Tariffazione"
 parent = "Più"
 weight = 9
 [[menu.main]]
-name = "Service"
-parent = "Plus"
-weight = 5
-[[menu.main]]
-name = "Startseite"
-weight = 4
-[[menu.main]]
 name = "Servizio"
 parent = "Più"
-weight = 1
+weight = 2
 [[menu.main]]
 name = "Pagina iniziale"
-weight = 2
+weight = 3
 [[menu.main]]
 name = "Dienstleistung"
 parent = "Mehr"
-weight = 3
+weight = 4
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
